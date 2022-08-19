@@ -1,0 +1,43 @@
+section.prueba>p{
+    font-size: 30px;
+    align-content: center;
+    text-justify:justify;
+    padding: 70px;
+    width: 700px;
+}
+
+section.noticias_falsas img{
+    height: 130px;
+    width: 130px;
+    padding: 10px;
+}
+
+section.noticias_falsas p{
+    font-size: 20px;
+    text-align: justify;
+    color: black;
+}
+
+section.noticias_falsas h1{
+    font-size: 40px;
+    color: black;
+}
+
+section.noticias_falsas h2{
+    font-size: 40px;
+    color: black;
+}
+
+section.noticias_falsas h3{
+    font-size: 40px;
+    color: black;
+}
+
+.container{
+    background-color: antiquewhite;
+}
+
+a{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
